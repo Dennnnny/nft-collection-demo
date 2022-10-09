@@ -220,7 +220,7 @@ export default function Home() {
         <div>
           <div>presale started!! if you are in whitelist, go mint</div>
           <button onClick={presaleMint} className={styles.button}>
-            go mint
+            go mint !!
           </button>
         </div>
       );
